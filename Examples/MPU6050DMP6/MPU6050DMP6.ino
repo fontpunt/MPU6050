@@ -24,7 +24,7 @@ THE SOFTWARE.
 
 #include "Wire.h"
 #include "I2Cdev.h"
-#include "MPU60506AMA20.h"
+#include "MPU6050DMP.h"
 
 MPU6050DMP mpu;
 
